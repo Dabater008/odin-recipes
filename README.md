@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first official .html project I will be creating with The Odin Project!
